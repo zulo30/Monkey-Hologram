@@ -9,7 +9,7 @@ Trabajo de Computación Gráfica | Universidad EIA ![logo eia](https://github.co
 
 En este proyecto se realizo Shader que simula el efecto de un holograma com se puede ver en la imagen:
 
-![Alt Text](https://media.giphy.com/media/itnOMNvmbkiOSCQBtf/source.gif)
+![Alt Text](https://media.giphy.com/media/itnOMNvmbkiOSCQBtf/giphy.gif)
 
 se utilizo el siguiente grafo para realizar para shader:
 
