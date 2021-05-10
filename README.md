@@ -18,7 +18,7 @@ se utilizo el siguiente grafo para realizar para shader:
 
 ## Recursos
 
-- Shaders Graph Documentation [https://docs.unity3d.com/Packages/com.unity.shadergraph@6.9/manual/Node-Library.html](https://docs.unity3d.com/Packages/com.unity.shadergraph@6.9/manual/Node-Library.html)
+- Shaders Graph Documentation | [https://docs.unity3d.com/Packages/com.unity.shadergraph@6.9/manual/Node-Library.html](https://docs.unity3d.com/Packages/com.unity.shadergraph@6.9/manual/Node-Library.html)
 
 ## Contribuir:
 
