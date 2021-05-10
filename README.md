@@ -2,7 +2,7 @@
 
 Trabajo de Computación Gráfica | Universidad EIA ![logo eia](https://github.com/EIA-University/LogosEIA/blob/master/assets/png/logo-eia-icon.png?raw=true)
 
-## Comenzando :rocket:
+## Desarrollo :rocket:
 
 En este proyecto se realizo Shader que simula el efecto de un holograma com se puede ver en la imagen:
 
